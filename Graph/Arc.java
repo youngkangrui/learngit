@@ -1,9 +1,10 @@
 package Graph;
 //first explain
 //second explain
+//third explain
 public class Arc {
-	private int v=Integer.MAX_VALUE;//权重
-	private int pass=0;//是否必须经过；
+	private int v=Integer.MAX_VALUE;//脠篓脰脴
+	private int pass=0;//脢脟路帽卤脴脨毛戮颅鹿媒拢禄
 	public int get_v(){
 		return v;
 	}
