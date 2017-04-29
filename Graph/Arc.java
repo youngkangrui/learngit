@@ -1,5 +1,5 @@
 package Graph;
-
+//first explain
 public class Arc {
 	private int v=Integer.MAX_VALUE;//权重
 	private int pass=0;//是否必须经过；
